@@ -1,0 +1,40 @@
+.Actual-course-page-layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+.Actual-course-header {
+    margin-top: 68px;
+    margin-bottom: 48px;
+}
+
+.Actual-course-table {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 7px;
+    grid-row-gap: 12px;
+    margin-bottom: 233px;
+}
+.Course-cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 160px;
+    height: 36px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #FFF;
+    color: #4E368F;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}

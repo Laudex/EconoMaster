@@ -1,0 +1,19 @@
+.Course-field-group {
+    display: flex;
+    gap: 8px;
+}
+.Course-field {
+    display: flex;
+}
+.Course-field > img {
+    width: 24px;
+    height: 24px;
+}
+.Equal {
+    color: #FF9051;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}

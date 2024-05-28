@@ -1,0 +1,57 @@
+.Yes-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 64px;
+    border-radius: 12px;
+    border: 1px solid #FFFFFF;
+    background: #34C81B;
+    box-shadow: 0 16px 32px 0 rgba(54, 16, 166, 0.40);
+    cursor: pointer;
+
+}
+
+.No-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 64px;
+    border-radius: 12px;
+    border: 1px solid #FFF;
+    background: #C8591B;
+    box-shadow: 0 16px 32px 0 rgba(54, 16, 166, 0.40);
+}
+
+.Play-button {
+    width: 327px;
+    height: 64px;
+    border-radius: 12px;
+    border: 1px solid #FFF;
+    box-shadow: 0 16px 32px 0 rgba(54, 16, 166, 0.40);
+    background-color: #FF9051;
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.Sample-button {
+    width: 327px;
+    height: 64px;
+    border: 2px solid rgba(255, 255, 255, 0.40);
+    border-radius: 12px;
+    box-shadow: 0 8px 20px 0 rgba(87, 47, 255, 0.30);
+    background-color: rgba(255, 255, 255, 0.30);
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    cursor: pointer;
+}
+

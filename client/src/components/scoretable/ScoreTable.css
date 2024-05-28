@@ -1,0 +1,39 @@
+.Score-table-layout {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    text-align: center;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    margin-bottom: 83px;
+}
+.Score-table {
+    display: inherit;
+    flex-direction: inherit;
+    gap: inherit;
+    overflow-y: scroll;
+    max-height: 94px;
+}
+.Score-cell {
+    display: grid;
+    grid-template-columns: 10% 70% 20%;
+    text-align: center;
+    width: 260px;
+    height: 26px;
+    border-radius: 5px;
+    background: #FFF;
+    color: #4E368F;
+    font-size: 16px;
+    line-height: 24px;
+}
+.Score-cell-position {
+    color: #906AFF;
+}
+.Score-cell-name {
+    text-align: left;
+    margin-left: 16px;
+}

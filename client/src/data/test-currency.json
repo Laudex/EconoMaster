@@ -1,0 +1,22 @@
+[
+  {
+    "name": "EUR",
+    "rate": 102.32
+  },
+  {
+    "name": "USD",
+    "rate": 93.97
+  },
+  {
+    "name": "RUB",
+    "rate": 0.2
+  },
+  {
+    "name": "GBP",
+    "rate": 119.75
+  },
+  {
+    "name": "JPY",
+    "rate": 0.64
+  }
+]

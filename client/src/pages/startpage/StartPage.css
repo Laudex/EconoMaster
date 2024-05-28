@@ -1,0 +1,48 @@
+.Start-page-layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Econo-and-logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 81px;
+    margin-bottom: 150px;
+}
+
+.Econo-master {
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: -87px;
+    width: 195px;
+    height: 92px;
+    border-radius: 16px;
+    gap: 10px;
+    background: rgba(255,255,255, 0.8);
+    color: #280A82;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 36px;
+    letter-spacing: 0;
+    text-align: center;
+    border: 1px solid #FFFFFF;
+    text-transform: uppercase;
+}
+
+.Main-logo {
+    width: 380px;
+}
+
+.Main-buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Main-buttons > button:first-child {
+    margin-bottom: 16px;
+}
+

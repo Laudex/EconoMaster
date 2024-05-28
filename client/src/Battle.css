@@ -1,0 +1,16 @@
+.Main-layout {
+    height: 812px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(137deg, #9F7FFF 0%, #8055FE 100%);
+    margin: auto;
+}
+
+.Table-buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5px;
+}
+
